@@ -8,9 +8,9 @@ import re
 import threading
 import time
 
-API_KEY = "tFCcxP6TEDXp"
-PROJECT_TOKEN = "t_nOc_0UNv0D"
-RUN_TOKEN = "tZVTTg6AxYUV"
+API_KEY = "YOUR TOKEN HERE"
+PROJECT_TOKEN = "YOUR TOKEN HERE"
+RUN_TOKEN =   "YOUR TOKEN HERE"
 
 class Data:
     def __init__(self, api_key, project_token):
